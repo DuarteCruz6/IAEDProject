@@ -1,0 +1,11 @@
+p parque1 10 0.10 0.20 10.00
+p parque2 10 0.15 0.20 12.00
+e parque1 AA-00-AA 03-04-2024 10:00
+s parque1 AA-00-AA 03-04-2024 10:20
+e parque1 AA-00-AA 03-04-2024 11:00
+s parque1 AA-00-AA 03-04-2024 11:20
+e parque1 BB-00-AA 03-04-2024 12:00
+s parque1 BB-00-AA 03-04-2024 12:25
+t parque1
+t parque2
+q
